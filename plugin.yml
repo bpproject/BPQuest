@@ -1,0 +1,6 @@
+---
+name: BPQuest
+version: 0.0.1
+main: BPsysGamer\BPQuest\Main
+api: 3.9.7
+...
